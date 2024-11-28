@@ -84,5 +84,4 @@ try {
 } catch (Exception $e) {
     echo '<br>Error: ' . $e->getMessage();
 }
-
 ?>
