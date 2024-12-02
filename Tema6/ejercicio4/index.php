@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
     try{
         if(!file_exists("perroadri.php")){
             throw new Exception("El fichero perro.php no existe");

@@ -74,7 +74,6 @@ class Perro {
         echo "¡Guau guau! Soy {$this->nombre}.";
     }
 }
-<<<<<<< HEAD
 
 try {
     // Crear objeto Labrador
